@@ -1,20 +1,19 @@
 ![](https://komarev.com/ghpvc/?username=myllamachaado&color=006bed)
 
 <h3> :woman: &nbsp;Sobre mim </h3>
-
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando Ciência da Computação no <a href="https://estacio.br/">Estácio de Sá</a>.
+- 🎓 &nbsp; Estudando Ciência da Computação na <a href="https://estacio.br/">Estácio de Sá</a>.
 - 💼 &nbsp; Experiência trabalhando com Java (Backend) e VB.net (Desktop)
-- 🌱 &nbsp; Aprendendo mais sobre **Java** e **Kotlin**.
+- 🌱 &nbsp; Atualmente aprendendo mais sobre **Java**, **Spring Boot** e **Kotlin**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
 **Aplicações e Dados**
 
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle)
+  [![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  [![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+  [![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+  [![Sql Server](https://img.shields.io/badge/-SQLServer-333333?style=flat&logo=SQLServer)](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+  [![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle)](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 
 **Utilidades**
 
