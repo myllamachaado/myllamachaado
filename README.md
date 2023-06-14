@@ -1,4 +1,8 @@
-Estudante de Ciência da Computação na <a href="https://estacio.br/">Estácio de Sá</a>. // Experiência trabalhando com Java (Backend) e VB.net (Desktop) // Atualmente aprendendo mais sobre **Java**, **Spring Boot** e **Kotlin**.
+:desktop_computer: Estudante de Ciência da Computação na <a href="https://estacio.br/">Estácio de Sá</a>. 
+
+:arrow_right: Desenvolvedora Java (Backend)
+
+:arrow_right: Atualmente aprendendo mais sobre **Java**, **Spring Boot** e **Kotlin**.
 
 ![](https://komarev.com/ghpvc/?username=myllamachaado&color=006bed)
 [![Linkedin: Ludmila Machado](https://img.shields.io/badge/-ludmilamachado-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ludmilamachado/)](https://www.linkedin.com/in/ludmilamachado/)
