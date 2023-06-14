@@ -6,7 +6,6 @@ Estudante de Ciência da Computação na <a href="https://estacio.br/">Estácio 
 [![GitHub]( https://img.shields.io/github/followers/myllamachaado?label=follow&style=social)](https://github.com/myllamachaado)
 ##
 
-
-![Mila's GitHub stats](https://github-readme-stats.vercel.app/api?username=myllamachaado&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myllamachaado&layout=compact)
 
 <br/>
